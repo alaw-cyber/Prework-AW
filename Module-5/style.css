@@ -1,0 +1,18 @@
+p {font-color:red}
+
+#second {color:red}
+#third {color: blue}
+#fourth {color: green}
+
+#fifth {font-size:45px}
+#sixth {font-size:12px}
+#seventh {text-align: center;}
+#eigth {font-weight: bold;}
+
+.multiple {font-size:30px; color:orange; font-weight:bold}
+
+.monospace {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+h1 {text-align: center;}
+
+#styledImage {outline-style: groove; outline-color: blue;outline-width: thick;}
